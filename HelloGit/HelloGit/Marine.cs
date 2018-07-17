@@ -7,5 +7,6 @@ namespace HelloGit
 {
     class Marine
     {
+        int a;
     }
 }
