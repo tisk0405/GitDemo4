@@ -7,5 +7,6 @@ namespace HelloGit
 {
     class FireBat
     {
+        double a;
     }
 }
